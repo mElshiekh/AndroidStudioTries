@@ -3,7 +3,7 @@
  */
 
 public class InputsC {
-    String name,name2,name22;
+    String name,name2,name2x;
 
     public String getName() {
         return name;
