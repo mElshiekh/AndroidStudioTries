@@ -4,6 +4,10 @@
 
 public class InputsC {
     String name,name2,name2x,nameXX;
+    
+    public String getName() {
+        return nameXX;
+    }
 
     public String getName() {
         return name;
